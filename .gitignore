@@ -1,1 +1,5 @@
 node_modules
+.idea/modules.xml
+.idea/startbootstrap-agency.iml
+.idea/vcs.xml
+.idea/workspace.xml
